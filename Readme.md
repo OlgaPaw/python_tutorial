@@ -1,14 +1,17 @@
 # Python - tutorial dla początkujących.
+Poniżej znajdziesz serię lekcji programowania dla początkujących w języku python. 
 
-## Jak uruchomić
+Tutorial jest przygotowany w taki sposób, abyś mógł go uruchamiać bez instalacji na swoim komputerze - wystarczy że wejdziesz na stronę: https://mybinder.org/v2/gh/OlgaPaw/python_tutorial/main i poczekasz na uruchomienie - zostanie dla Ciebie utworzone środowisko, w którym będziesz mógł się uczyć uruchamiając kod z lekcji.
 
-https://mybinder.org/v2/gh/OlgaPaw/python_tutorial/main
+Po uruchomieniu projektu zostaniesz przekierowany na następującą stronę: ![image](img/jupyter.png)
 
-## Jak używać
+Na pasku z lewej strony wybierz z katalogu lekcje interesującą Cię lekcję.
 
 Kod w lekcjach jest interaktyny. 
 
 Aby uruchomić kliknij myszą w pole z kodem a następnie w przycisk Run (lub `ctrl + enter` na klawiaturze).
+
+![image](img/jupyter_run.png)
 
 Każda lekcja ma zadania. Edytuj interaktywny kod i uruchom po swoich zmianach.
 
@@ -25,3 +28,6 @@ Sprawdź, czy kod coś wypisuje, np, w pierwszej linii dodaj `print('test')` i u
 Jeśli powyższe sposoby zawiodły, wróć otwórz ponownie aplikację używając linku z sekcji Jak uruchomić.
 
 Jeśli nadal nie działa - zgłoś problem w zakładce Issues
+
+## Praktyczne wskazówki dla początkujących.
+W katalogu [praktyczne_wskazowki](praktyczne_wskazowki) znajdziesz kilka porad, które pomogą Ci szybciej wejść na programistyczną drogę - m.in. narzędzia powszechnie używane w pracy z pythonem. 
